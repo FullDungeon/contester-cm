@@ -1,0 +1,4 @@
+venv/
+readme-old.md
+src/__pycache__/
+.idea/
